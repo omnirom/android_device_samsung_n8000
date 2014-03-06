@@ -33,4 +33,9 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := GT-N8000
 
 # Set build fingerprint / ID / Product Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=GT-N8000 TARGET_DEVICE=GT-N8000 BUILD_FINGERPRINT="samsung/p4noterfxx/p4noterf:4.0.4/IMM76D/N8000XWALG9:user/release-keys" PRIVATE_BUILD_DESC="p4noterfxx-user 4.0.4 IMM76D N8000XWALG9 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRODUCT_NAME=p4noterfxx \
+    PRODUCT_DEVICE=p4noterf \
+    TARGET_DEVICE=GT-N8000 \
+    PRIVATE_BUILD_DESC="p4noterfxx-user 4.1.2 JZO54K N8000XXCLL3 release-keys" \
+    BUILD_FINGERPRINT="samsung/p4noterfxx/p4noterf:4.1.2/JZO54K/N8000XXCLL3:user/release-keys"
