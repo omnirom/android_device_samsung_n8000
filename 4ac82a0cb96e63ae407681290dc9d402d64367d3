@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8b77b57d_acf64c58",
+        "filename": "omni_n8000.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000183
+      },
+      "writtenOn": "2014-03-06T19:26:40Z",
+      "side": 1,
+      "message": "It\u0027s set to GT-N8000 for a reason...",
+      "revId": "4ac82a0cb96e63ae407681290dc9d402d64367d3",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
