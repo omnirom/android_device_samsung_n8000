@@ -16,6 +16,24 @@
       "revId": "4ac82a0cb96e63ae407681290dc9d402d64367d3",
       "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8b77b57d_8c8ef0d2",
+        "filename": "omni_n8000.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000758
+      },
+      "writtenOn": "2014-03-06T19:36:20Z",
+      "side": 1,
+      "message": "Please explain why we need to contradict what that stock ro.product.name?",
+      "parentUuid": "8b77b57d_acf64c58",
+      "revId": "4ac82a0cb96e63ae407681290dc9d402d64367d3",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
     }
   ]
 }
